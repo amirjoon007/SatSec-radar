@@ -98,7 +98,7 @@ This app is intended for **educational and personal use only**. Use responsibly 
 
 ## 📜 License
 
-MIT License — feel free to use, modify, and distribute.
+MIT License — feel free to use, modify, and distribute Only with mentioning the original source ( us ) .
 
 ---
 
@@ -109,5 +109,5 @@ MIT License — feel free to use, modify, and distribute.
 - Powered by **SatSec TM**
 
 ---
-
+Long Live Iran . Javid Shah
 <p align="center">Made with ❤️ by SatSec TM</p>
