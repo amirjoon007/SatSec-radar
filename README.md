@@ -109,5 +109,5 @@ MIT License — feel free to use, modify, and distribute Only with mentioning th
 - Powered by **SatSec TM**
 
 ---
-Long Live Iran . Javid Shah
+<p align="center">Long Live Iran . Javid Shah</p>
 <p align="center">Made with ❤️ by SatSec TM</p>
